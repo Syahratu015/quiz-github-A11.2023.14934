@@ -4,7 +4,7 @@
 
 * **Nama:** Syahratu Andhara Satriani
 * **NIM:** A11.2023.14934
-* **Kelas:** [Isi kelas kamu]
+* **Kelas:** Dev 02
 * **Mata Kuliah:** Bengkel Koding
 
 ## Deskripsi
